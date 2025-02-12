@@ -33,7 +33,7 @@ pip install requests beautifulsoup4
 Run the script with:
 
 ```sh
-python website_image_checker.py
+python broken-image-checker.py
 ```
 
 ## 📌 You Will Be Prompted To:  
