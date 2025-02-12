@@ -1,7 +1,7 @@
 # 🛠️ Broken Image Checker
 
 ## 📌 Overview  
-The **Broken Image Checker** is a Python script that crawls a given website, checks all images on its pages, and identifies broken image links. The results are saved in a CSV report.
+The [**Broken Image Checker**](https://github.com/phpsmashcode/Broken-Image-Checker) is a Python script that crawls a given website, checks all images on its pages, and identifies broken image links. The results are saved in a CSV report.
 
 ---
 
@@ -29,6 +29,11 @@ pip install requests beautifulsoup4
 ```
 
 ## 💻 Usage
+
+Clone the repository:
+```
+git clone https://github.com/phpsmashcode/Broken-Image-Checker.git
+```
 
 Run the script with:
 
